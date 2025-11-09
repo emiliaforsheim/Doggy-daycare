@@ -1,4 +1,4 @@
-// src/pages/DogDetail.jsx
+
 import React, { useEffect, useState } from 'react'
 import { useParams, Link, useLocation } from 'react-router-dom'
 import { fetchDogs } from '../api'

@@ -14,11 +14,11 @@ header {
 }
 
 header h1 {
-  font-size: 3rem;          /* gör rubriken större */
-  color: #2b3743;           /* mörkare ton som passar temat */
-  letter-spacing: 2px;      /* lite extra luft mellan bokstäver */
-  font-weight: bold;        /* gör texten tydlig */
-  text-transform: uppercase;/* (valfritt) gör texten i versaler */
+  font-size: 3rem;
+  color: #2b3743;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 a {
